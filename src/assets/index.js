@@ -23,8 +23,8 @@ import pytorch from "./tech/pytorch.png";
 
 import code_ninjas from "./company/code-ninjas.png";
 import landingX from "./company/landingx.png";
-import tks from "./company/tks.jpg";
-import hippocampus from "./company/hippocampus.jpg";
+import tks from "./company/tks.png";
+import hippocampus from "./company/hippocampus.png";
 
 import website from "./website.png";
 import mnist from "./MNIST.png";
