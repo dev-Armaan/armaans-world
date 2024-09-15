@@ -215,7 +215,7 @@ import {
         },
       ],
       image: website,
-      source_code_link: "https://github.com/dev-Armaan/my-world",
+      source_code_link: "https://github.com/dev-Armaan/armaans-world",
     },
     {
       name: "MNIST Digit Classifier",
