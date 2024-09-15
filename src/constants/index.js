@@ -215,7 +215,7 @@ import {
         },
       ],
       image: website,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/dev-Armaan/my-world",
     },
     {
       name: "MNIST Digit Classifier",
@@ -236,7 +236,7 @@ import {
         },
       ],
       image: mnist,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/dev-Armaan/Handwritten-Digit-Classifier",
     },
     {
       name: "Aim Trainer",
@@ -257,7 +257,7 @@ import {
         },
       ],
       image: aimtrainer,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/dev-Armaan/Aim_Trainer",
     },
 
     {
@@ -279,7 +279,7 @@ import {
         },
       ],
       image: article,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/dev-Armaan/neural-networks-article",
     },
   ];
   
