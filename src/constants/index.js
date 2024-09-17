@@ -124,7 +124,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "June 2024 - August 2024",
     points: [
-      "Collaborated with a cross-functional team to develop a programming cirriculum for programming beginners and intermediates.",
+      "Collaborated with a cross-functional team to develop a programming curriculum for programming beginners and intermediates.",
       "Worked with Lua and other related technologies to develop interactive games and tutorials for them.",
       "Responsible for the programming development of up to 15 children at a time.",
       "Participating in code reviews and providing constructive feedback to youth programmers.",
@@ -161,7 +161,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - August 2022",
     points: [
-      "Collaborated with a cross-functional team to develop summer camp cirriculums for programming beginners and intermediates.",
+      "Collaborated with a cross-functional team to develop summer camp curriculums for programming beginners and intermediates.",
       "Worked with block-based programming applications and robotics platforms to develop well-rounded lesson plans ",
       "Communicated with superiors and team-members to devise challenging modules while considering the needs of the consumers.",
       "Participating in code reviews and providing constructive feedback to youth programmers.",
