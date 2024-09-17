@@ -155,7 +155,7 @@ const experiences = [
     ],
   },
   {
-    title: "Coding Instructor & Cirriculum Developer",
+    title: "Coding Instructor & Curriculum Developer",
     company_name: "Hippocampus Learning",
     icon: hippocampus,
     iconBg: "#E6DEDD",
