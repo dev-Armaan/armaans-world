@@ -134,7 +134,7 @@ const experiences = [
     title: "CEO & Founder",
     company_name: "LandingX",
     icon: landingX,
-    iconBg: "#383E56",
+    iconBg: "#1c1a1a",
     date: "July 2023 - present",
     points: [
       "Created high-quality landing pages for individuals and businesses as a paid service.",
