@@ -138,7 +138,7 @@ const experiences = [
     date: "July 2023 - present",
     points: [
       "Created high-quality landing pages for individuals and businesses as a paid service.",
-      "Implemented libraries like node.js, react.js and three.js for seemeless frontend to backend integration.",
+      "Implemented libraries like node.js, react.js and three.js for a modern looking and functional UI.",
       "Communicated with clients and team members to ensure clients needs were met, both functionally and visually.",
     ],
   },
