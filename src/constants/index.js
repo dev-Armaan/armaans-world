@@ -118,7 +118,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Camp Leader & Code Sensai",
+    title: "Camp Leader & Code Sensei",
     company_name: "Code Ninjas",
     icon: code_ninjas,
     iconBg: "#E6DEDD",
