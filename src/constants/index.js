@@ -176,23 +176,23 @@ const testimonials = [ // need to update once I hear back from those I reached o
     name: "xyz",
     designation: "xyz",
     company: "xyz",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://randomuser.me/api/portraits/lego/2.jpg",
   },
   {
     testimonial:
-      "check back soon!",
+      "revenez bientôt!",
     name: "xyz",
     designation: "xyz",
     company: "xyz",
-    image: "https://randomuser.me/api/portraits/men/5.jpg", 
+    image: "https://randomuser.me/api/portraits/lego/8.jpg", 
   },
   {
     testimonial:
-      "check back soon!",
+      "¡vuelve pronto!",
     name: "xyz",
     designation: "xyz",
     company: "xyz",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+    image: "https://randomuser.me/api/portraits/lego/6.jpg",
   },
 ];
 
