@@ -190,7 +190,7 @@ const testimonials = [ // need to update once I hear back from those I reached o
     testimonial:
       "¡vuelve pronto!",
     name: "xyz",
-    designation: "x",
+    designation: "random",
     company: "xyz",
     image: "https://randomuser.me/api/portraits/lego/6.jpg",
   },
