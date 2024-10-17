@@ -204,6 +204,49 @@
   }
 }
 
+.sidebar {
+  position: absolute; 
+  top: 20%; 
+  right: 0; 
+  background-color: transparent; /* Transparent background */
+  padding: 20px;
+}
+
+/* Social icon links */
+.sidebar a {
+  display: block;
+  margin: 20px 0; 
+  font-size: 24px; 
+  color: #ffffff;
+  transition: color 0.25s ease; 
+}
+
+.sidebar a:hover {
+  color: #1abc9c; 
+}
+
+.sidebar i {
+  display: block;
+}
+
+/* After the last icon, create a vertical line */
+.sidebar::after {
+  content: ''; /* This adds an empty element for the line */
+  display: block;
+  width: 2px; 
+  height: 80px; 
+  background-color: white; 
+  margin: 20px auto 0; 
+}
+
+@media (max-width: 768px) {
+  .sidebar {
+    display: none; /* Hide sidebar on smaller screens */
+  }
+}
+
+
+
 footer {
   background-color: #0a0117; 
   padding: 20px;
@@ -214,7 +257,7 @@ footer {
   color: #ffffff;
   margin: 0 10px;
   font-size: 24px; 
-  transition: color 0.25s; /* Smooth color change on hover */
+  transition: color 0.25s ease; /* Smooth color change on hover */
 }
 
 .social-links a:hover {
