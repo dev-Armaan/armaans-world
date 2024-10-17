@@ -9,3 +9,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <App />
   </React.StrictMode>
 );
+
+import '@fortawesome/fontawesome-free/css/all.min.css';
