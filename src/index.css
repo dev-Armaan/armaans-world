@@ -250,14 +250,15 @@
 
 footer {
   background-color: #0a0117; 
-  padding: 20px;
+  padding: 10px;
   text-align: center;
+  font-size: 15px;
 }
 
 .social-links a {
   color: #ffffff;
   margin: 0 10px;
-  font-size: 24px; 
+  font-size: 35px; 
   transition: color 0.25s ease; /* Smooth color change on hover */
 }
 
@@ -267,4 +268,5 @@ footer {
 
 .social-links i {
   margin-right: 10px;
+  margin-bottom: 15px;
 }
