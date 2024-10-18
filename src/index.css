@@ -230,12 +230,22 @@
   display: block;
 }
 
+/* Before the first icon, create a vertical line */
+.sidebar::before {
+  content: ''; /* This adds an empty element for the line */
+  display: block;
+  width: 2px; 
+  height: 60px;
+  background-color: white; 
+  margin: 20px auto 0; 
+}
+
 /* After the last icon, create a vertical line */
 .sidebar::after {
   content: ''; /* This adds an empty element for the line */
   display: block;
   width: 2px; 
-  height: 80px;
+  height: 60px;
   background-color: white; 
   margin: 20px auto 0; 
 }
