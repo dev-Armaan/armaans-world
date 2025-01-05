@@ -25,6 +25,7 @@ import {
   aimtrainer,
   article,
   pytorch,
+  vehicletracker,
 } from "../assets";
 
 export const navLinks = [
@@ -197,6 +198,29 @@ const testimonials = [ // need to update once I hear back from those I reached o
 ];
 
 const projects = [
+  
+  {
+    name: "Vehicle Tracker",
+    description:
+      "Vehicle detection and tracking CNN model capable of calculating vehicle speed and counting passing vehicles. The system also distinguishes between different vehicle types for more detailed traffic analysis.",
+    tags: [
+      {
+        name: "OpenCV",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "YOLO",
+        color: "green-text-gradient",
+      },
+      {
+        name: "argparse",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: vehicletracker,
+    source_code_link: "https://github.com/dev-Armaan/vehicle-tracker",
+  },
+  
   {
     name: "Personal Website",
     description:

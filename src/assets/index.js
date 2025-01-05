@@ -30,6 +30,7 @@ import website from "./website.png";
 import mnist from "./MNIST.png";
 import aimtrainer from "./aimtrainer.png";
 import article from "./medium_article.png"; 
+import vehicletracker from "./vehicletracker.png"; 
 
 export {
   logo,
@@ -61,4 +62,5 @@ export {
   mnist,
   aimtrainer,
   article,
+  vehicletracker,
 };
