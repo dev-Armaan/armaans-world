@@ -25,6 +25,7 @@ import {
   aimtrainer,
   article,
   pytorch,
+  yolo,
   vehicletracker,
 } from "../assets";
 
@@ -96,8 +97,8 @@ const technologies = [
     icon: css,
   },
   {
-    name: "Racket",
-    icon: racket,
+    name: "YOLO",
+    icon: yolo,
   },
   {
     name: "ReactJs",

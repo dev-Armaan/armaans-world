@@ -20,6 +20,7 @@ import tensorflow from "./tech/tensorflow.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import pytorch from "./tech/pytorch.png";
+import yolo from "./tech/yolo.png"
 
 import code_ninjas from "./company/code-ninjas.png";
 import landingX from "./company/landingx.png";
@@ -54,6 +55,7 @@ export {
   tailwind,
   typescript,
   pytorch,
+  yolo,
   code_ninjas,
   landingX,
   tks,
