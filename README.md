@@ -1,5 +1,7 @@
 # Armaan's World :earth_africa:
 
+Click [here](https://main.d15u68egeazevg.amplifyapp.com/) to access the website!
+
 This project employs various `industry-standard technologies` such as:
 
 * JS 
