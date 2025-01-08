@@ -27,6 +27,7 @@ import {
   pytorch,
   yolo,
   vehicletracker,
+  ASD,
 } from "../assets";
 
 export const navLinks = [
@@ -221,6 +222,29 @@ const projects = [
     image: vehicletracker,
     source_code_link: "https://github.com/dev-Armaan/vehicle-tracker",
   },
+
+  {
+    name: "ASD Prediction Model",
+    description:
+      "Predictive model for autism detection, achieving an impressive 93% accuracy, surpassing the industry norm. Employs advanced classification algorithms and performing cross-validation with hyperparameter tuning to ensure high reliability",
+    tags: [
+      {
+        name: "pandas",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "matplotlib",
+        color: "green-text-gradient",
+      },
+      {
+        name: "SMOTE",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ASD,
+    source_code_link: "https://github.com/dev-Armaan/autism-prediction",
+  },
+
   
   {
     name: "Personal Website",
