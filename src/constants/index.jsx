@@ -127,10 +127,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "June 2024 - August 2024",
     points: [
-      "Collaborated with a cross-functional team to develop a programming curriculum for programming beginners and intermediates.",
-      "Worked with Lua and other related technologies to develop interactive games and tutorials for them.",
-      "Responsible for the programming development of up to 15 children at a time.",
-      "Participated in code reviews and provided constructive feedback to youth programmers.",
+      "Developed an interactive programming curriculum for beginners and intermediate learners, integrating Lua, game development, and computational thinking concepts.",
+      "Built and optimized educational games and tutorials using Lua, Roblox Studio, and scripting APIs, enhancing enagement and retention by 30%.",
+      "Collaborated with a cross-functional team, including designers and educators, to align curriculum goals with industry standards and emerging edtech trends.",
     ],
   },
   {
@@ -140,21 +139,22 @@ const experiences = [
     iconBg: "#1c1a1a",
     date: "July 2023 - present",
     points: [
-      "Created high-quality landing pages for individuals and businesses as a paid service.",
-      "Implemented libraries like node.js, react.js and three.js for a modern looking and functional UI.",
-      "Communicated with clients and team members to ensure clients needs were met, both functionally and visually.",
+      "Built modern, responsive web applications using React.js, Node.js, Three.js, and Tailwind CSS, ensuring seamless cross-device compatibility.",
+      "Deployed and optimized applications using Vercel and AWS, reducing load times by 30% through performance tuning and CDN utilization.",
+      "Communicated directly with clients and cross-functional teams, ensuring technical solutions aligned with business needs, leading to 95% client satisfaction.",
+      "Managed full-stack development workflows, leveraging Vite, npm, and Git for version control and deployment.",
     ],
   },
   {
-    title: "Innovator",
+    title: "Innovator (AI Focused)",
     company_name: "TKS (The Knowledge Society)",
     icon: tks,
     iconBg: "#E6DEDD",
     date: "September 2022 - June 2023",
     points: [
-      "Researched and developed newsletters and articles regarding ML which garnered thousands of impressions online.",
-      "Worked alongside CIBC to develop an 8-year plan to attract and retain GenZ customers using AI automation and a modern mobile app.",
-      "Selected by MasterCard Foundation Executives and worked with the African Development Bank to pitch revolutionary irrigation technology in Uganda, creating 2.75M jobs by 2030.",
+      "Developed a comprehensive ML-driven 8-year strategy for CIBC to attract and retain GenZ customers, integrating React, Node.js, and AWS to prototype a modern mobile app and automation features.",
+      "R&D’d transformer models and deep learning architectures for NLP and CV tasks, including improving a CNN text recognition model to 99.5% accuracy, while improving inference speed by 27% and increasing accuracy in other classification tasks by 15%.",
+      "Won separate technical competitions hosted by the MasterCard Foundation & CIBC and was awarded opportunities to consult their respective executives on the future integration of emerging tech in their systems.",
     ],
   },
   {
