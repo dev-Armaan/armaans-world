@@ -28,6 +28,7 @@ import {
   yolo,
   vehicletracker,
   ASD,
+  preppal,
 } from "../assets";
 
 export const navLinks = [
@@ -201,6 +202,29 @@ const testimonials = [ // need to update once I hear back from those I reached o
 
 const projects = [
   
+  {
+    name: "PrepPal",
+    description:
+      "AI-powered interview prep assistant that provides interactive mock interviews and personalized feedback using GenAI. Uses SQL database to store user interview history, AI-generated feedback, and progress metrics.",
+    tags: [
+      {
+        name: "SQL",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Flask",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: preppal,
+    source_code_link: "https://github.com/dev-Armaan/ai-interviewer",
+  },
+
+
   {
     name: "Vehicle Tracker",
     description:

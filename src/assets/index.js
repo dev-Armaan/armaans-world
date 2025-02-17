@@ -33,6 +33,7 @@ import aimtrainer from "./aimtrainer.png";
 import article from "./medium_article.png"; 
 import vehicletracker from "./vehicletracker.png"; 
 import ASD from "./correlation-heatmap.png"
+import preppal from "./preppal.png"
 
 export {
   logo,
@@ -67,4 +68,5 @@ export {
   article,
   vehicletracker,
   ASD,
+  preppal,
 };
