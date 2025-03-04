@@ -1,6 +1,7 @@
 # Armaan's World :earth_africa:
 
-Click [here](https://main.d15u68egeazevg.amplifyapp.com/) to access the website!
+Click [here](https://armaansworld.vercel.app/) to access the website (via vercel)!
+Click [here](https://main.d15u68egeazevg.amplifyapp.com/) to access the website (via aws amplify)!
 
 This project employs various `industry-standard technologies` such as:
 
